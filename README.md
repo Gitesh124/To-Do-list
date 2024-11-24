@@ -32,5 +32,6 @@ messagebox.askyesno() prompts the user for confirmation before clearing all task
 
 
 ![gui](https://github.com/user-attachments/assets/e4cf47fd-e27a-4e35-94cf-11efff841010)
-![Uploading adding task.png…]()
+![adding task](https://github.com/user-attachments/assets/b0ec57f7-e105-4fe3-a32b-90399f2865d3)
+
 
